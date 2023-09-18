@@ -1,4 +1,4 @@
-//ESERCIZIO 1 JS
+// ESERCIZIO 1 JS
 // let ntiri = 3;
 // let giocatore1= "utente1"
 // let giocatore2= "utente2"
@@ -60,27 +60,27 @@
 // }
 
 //ESERCIZIO 3
- let bevande = prompt(`Seleziona la bevanda presente in lista:
- 1 acqua 
- 2 coca cola 
- 3 birra `)
-switch (bevande){
-    case "1":
-        console.log(`E' stata selezionata l'acqua`);
-        break;
-    case "2":
-        console.log(`E' stata selezionata coca cola`);
-        break;
-    case "3":
-        console.log(`E' stata selezionata birra `);
-        break;
-    default:
-        alert(`Errore`)
-        let bevande = prompt(`Seleziona la bevanda presente in lista:
-        1 acqua
-        2 coca cola
-        3 birra`);
-}
+//  let bevande = prompt(`Seleziona la bevanda presente in lista:
+//  1 acqua 
+//  2 coca cola 
+//  3 birra `)
+// switch (bevande){
+//     case "1":
+//         console.log(`E' stata selezionata l'acqua`);
+//         break;
+//     case "2":
+//         console.log(`E' stata selezionata coca cola`);
+//         break;
+//     case "3":
+//         console.log(`E' stata selezionata birra `);
+//         break;
+//     default:
+//         alert(`Errore`)
+//         let bevande = prompt(`Seleziona la bevanda presente in lista:
+//         1 acqua
+//         2 coca cola
+//         3 birra`);
+// }
 
 //ESERCIZIO 4 
 // let temperatura = "-11"
